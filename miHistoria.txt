@@ -1,2 +1,4 @@
 Hola soy Mich.
 Estoy aprendiendo Git
+Tengo 20 años.
+Tengo 2 perros
