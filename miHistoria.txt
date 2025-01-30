@@ -2,3 +2,4 @@ Hola soy Michelle Paola Gonzalez.
 Estoy aprendiendo Git
 Tengo 20 años y cumplo el 7 de febrero.
 Tengo ganas de ir a bailar, pero trato de ser autodidacta.
+Vamos en la clase 22 de 43 de Git y Github
